@@ -6,9 +6,9 @@
 
 ## 🙋🏻‍♂️ Sobre mi
 
-- Estudiante de Ingeniería de Sistemas en la <a href='https://www.ucss.edu.pe/'>UCSS</a> (Lima, Perú) último ciclo.
-- Me interesa el desarrollo de software.
-- Me gusta trabajar en equipo, aprender y enseñar.
+- 👨🏻‍🎓 Estudiante de Ingeniería de Sistemas en la <a href='https://www.ucss.edu.pe/'>UCSS</a> (Lima, Perú) último ciclo.
+- 💻 Me interesa el desarrollo de software.
+- 💼 Me gusta trabajar en equipo, aprender y enseñar.
 
 
 ## ⚙️ Competencias
